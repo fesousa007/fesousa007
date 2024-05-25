@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 😄⚡
 
-<!--
-**fesousa007/fesousa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe Sousa
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+felipemacedo985@gmail.com
+
+@lipe_sousa.m1 -- Instagram
+
+![](https://media1.tenor.com/m/1MOqmgFkOhoAAAAC/swat-team.gif)
